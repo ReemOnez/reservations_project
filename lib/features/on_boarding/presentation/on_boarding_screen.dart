@@ -5,9 +5,11 @@ class OnBoardingScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Scaffold(
-      body: Center(
-        child: Text('Welcome home!'),
+    return const SafeArea(
+      child: Scaffold(
+        body: Center(
+          child: Text('Welcome home!'),
+        ),
       ),
     );
   }
