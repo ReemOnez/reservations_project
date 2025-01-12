@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051456863553",
+    "project_id": "reservations-8c32c",
+    "storage_bucket": "reservations-8c32c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051456863553:android:a735260fa9ec0b2e73f5c0",
+        "android_client_info": {
+          "package_name": "com.example.reservations_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3ZXN8cYepE-stRPGA2RifgDpxJE7mIe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
